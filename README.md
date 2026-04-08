@@ -11,10 +11,14 @@
 ---
 
 ### About Me
-I am a Frontend Software Engineer currently working in Madrid. I build and maintain React and TypeScript applications used daily by enterprise customers.
+Software Engineer building React and Python applications used daily by enterprise customers. 
+
+My focus is on designing clear and reliable systems, reducing unnecessary complexity in both code and user experience. I ensure robustness through testing, automation, and maintainable architecture.
+
+Worked in multiple countries (France, South Korea, Germany, Spain), adapting quickly to different teams, contraints and engineering approaches.
 
 ### Technical Skills
-- **Languages:** Python, TypeScript/JavaScript, SQL
+- **Languages:** TypeScript/JavaScript, Python, SQL
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Django, Flask, Node.js
 - **Infra:** Docker
