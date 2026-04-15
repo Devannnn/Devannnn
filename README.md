@@ -11,14 +11,15 @@
 ---
 
 ### About Me
-Software Engineer building React and Python applications used daily by enterprise customers. 
+Software Engineer building Python and React applications in production environments. 
 
-My focus is on designing clear and reliable systems, reducing unnecessary complexity in both code and user experience. I ensure robustness through testing, automation, and maintainable architecture.
+I focus on designing clear, reliable systems and reducing unnecessary complexity. I ensure robustness through testing, automation, and maintainable architecture.
 
-Worked in multiple countries (France, South Korea, Germany, Spain), adapting quickly to different teams, contraints and engineering approaches.
+Worked in multiple countries (France, South Korea, Germany, Spain), adapting quickly to different teams, constraints, and engineering cultures.
 
 ### Technical Skills
-- **Languages:** TypeScript/JavaScript, Python, SQL
+- **Languages:** Python, TypeScript/JavaScript, SQL
+- **Backend:** Flask, Django, Node.js
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Django, Flask, Node.js
-- **Infra:** Docker
+- **Test:** Pytest, Playwright
+- **Infra:** Docker, Git, CI/CD
