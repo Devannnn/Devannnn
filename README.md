@@ -11,9 +11,9 @@
 ---
 
 ### About Me
-Software Engineer building Python and React applications in production environments. 
+Software Engineer with international experience building production software across frontend and backend (Python, React, TypeScript). I focus on building reliable systems — whether that means building interfaces used by enterprise customers, setting up nightly regression pipelines that catch issues before production, or designing a Flask API with domain validation.
 
-I focus on designing clear, reliable systems and reducing unnecessary complexity. I ensure robustness through testing, automation, and maintainable architecture.
+Currently at NPAW, working on an end-to-end monitoring platform for video streaming. Previously built a full-stack hardware configuration tool at Rohde & Schwarz (Flask, React) used by engineers to validate virtual setups against domain rules.
 
 Worked in multiple countries (France, South Korea, Germany, Spain), adapting quickly to different teams, constraints, and engineering cultures.
 
